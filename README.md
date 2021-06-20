@@ -1,7 +1,8 @@
 # Code-Refactor---homeworkweek1
 project link:https://ahmedmh9.github.io/Code-Refactor---homeworkweek1/
 This week is an odd-numbered week, so your homework is an on-the-job ticket—meaning that you'll begin with starter code that you need to modify.
- the assignment for this week was to improve the code mproved web accessibility, and to have semantic HTML.
+
+ the assignment we had to do for this week was to improve the code mproved web accessibility, and to have semantic HTML,etc.
 
 
 
